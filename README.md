@@ -18,13 +18,13 @@
 
 <h3>📊 Stats </h3>
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VsevolodCod&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VsevolodCod&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VsevolodCod&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr1vate4&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pr1vate4&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pr1vate4&theme=github_dark" alt=""/>
 </div>
 <h3> My top languages </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VsevolodCod&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr1vate4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>My social networks </h3>
