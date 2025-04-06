@@ -2,6 +2,11 @@
 
 <h2 align="center"> I am a russian Python and web developer </h2>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devlifeee/devlifeee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devlifeee/devlifeee/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h3> Tech Stack </h3>
 
