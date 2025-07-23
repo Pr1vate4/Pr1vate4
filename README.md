@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, World! I am Artem Vasilev </h1>
 
-<h2 align="center"> I am a russian Python and web developer </h2>
+<h2 align="center"> I am a russian python, web developer and future devops engineer </h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pr1vate4/Pr1vate4/output/github-contribution-grid-snake-dark.svg">
