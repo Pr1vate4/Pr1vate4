@@ -153,7 +153,7 @@ What I practiced:
 
 ---
 
-### Telegram bots for Rodanika
+### Telegram bots for company
 
 **Stack:** Python, Flask, Telegram Bot API, PostgreSQL
 
@@ -173,7 +173,6 @@ What I worked on:
 I am currently strengthening my SRE / DevOps skillset through project-based practice:
 
 * Helm charts for application deployment
-* Alertmanager and Prometheus alert rules
 * Loki / Promtail for log collection
 * k6 for basic load testing
 * Kubernetes debugging with `kubectl logs`, `describe`, `events`, and `exec`
