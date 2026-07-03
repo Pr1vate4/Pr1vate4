@@ -202,10 +202,6 @@ My goal is not just to know tool names, but to understand how they work in a rea
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pr1vate4&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pr1vate4&theme=github_dark" alt=""/>
 </div>
-<h3> My top languages </h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr1vate4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
 
 ## Contact
 
