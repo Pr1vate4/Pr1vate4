@@ -197,15 +197,14 @@ My goal is not just to know tool names, but to understand how they work in a rea
 ---
 
 ## GitHub Stats
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pr1vate4&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pr1vate4&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pr1vate4&theme=github_dark" alt=""/>
+</div>
+<h3> My top languages </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pr1vate4&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pr1vate4&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages"/>
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr1vate4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## Contact
