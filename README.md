@@ -99,7 +99,7 @@ I write backend services mostly in **Go** and **Python**, and I use my projects 
 
 ### PipeTodo — SRE / DevOps practice project
 
-**Stack:** Go, PostgreSQL, Docker Compose, Makefile, GitHub Actions, NGINX, Prometheus, Grafana, Minikube, VPS, HTTPS
+**Stack:** Go, PostgreSQL, Docker Compose, Makefile, GitLab CI, NGINX, Prometheus, Grafana, Minikube, VPS, HTTPS
 
 PipeTodo is my main project for practicing the full lifecycle of a service: backend development, containerization, deployment, monitoring, and debugging.
 
@@ -108,7 +108,7 @@ What I worked on:
 * Built a Go REST API with `/health` and `/metrics`
 * Connected PostgreSQL and described reproducible local startup with Docker Compose
 * Added Makefile commands for common development and operational tasks
-* Configured GitHub Actions for linting, testing, and Docker image building
+* Configured GitLab CI pipeline for linting, testing, and Docker image building
 * Deployed the service on a VPS with domain, HTTPS, and NGINX reverse proxy
 * Ran the app in Minikube using Deployment, Service, and ConfigMap
 * Built a basic Grafana dashboard using Prometheus metrics
@@ -119,7 +119,7 @@ What I worked on:
 
 ### Novogramm — fullstack social network
 
-**Stack:** Flask, React, PostgreSQL, Docker Compose, NGINX, GitLab CI, Prometheus
+**Stack:** Flask, React, PostgreSQL, Docker Compose, NGINX, Github Actions, Prometheus
 
 Team project where I worked on backend and DevOps-related parts of the application.
 
@@ -129,7 +129,7 @@ What I worked on:
 * Described local infrastructure using Docker Compose, volumes, and networks
 * Configured NGINX as a reverse proxy for frontend and backend
 * Practiced access/error log diagnostics
-* Added GitLab CI pipeline for project checks and build preparation
+* Added Github Actions for project checks and build preparation
 * Connected Prometheus for basic monitoring
 
 > Status: team project.
