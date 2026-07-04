@@ -35,7 +35,7 @@ My main interests are:
 * Linux servers, networking, logs, processes, and troubleshooting
 * Docker, Docker Compose, NGINX, HTTPS, and VPS deployment
 * CI/CD pipelines with GitHub Actions and GitLab CI
-* Observability with Prometheus, Grafana, healthchecks, and metrics
+* Observability with Prometheus, Grafana, healthchecks, Loki, Grafana Alloy
 * Kubernetes basics: Pods, Deployments, Services, ConfigMaps, logs and events
 * Infrastructure automation with Makefile, Ansible basics, and Terraform basics
 
@@ -55,6 +55,8 @@ I write backend services mostly in **Go** and **Python**, and I use my projects 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=Prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Grafana Loki](https://img.shields.io/badge/Grafana%20Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana Alloy](https://img.shields.io/badge/Grafana%20Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge\&logo=ansible\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge\&logo=terraform\&logoColor=white)
