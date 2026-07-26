@@ -190,6 +190,7 @@ My goal is not just to know tool names, but to understand how they work in a rea
   **Network and System Administration**, 2025–2029
 * English: B1
 * DANO Olympiad finalist
+* Winner of Nuclear IT Hack 2026 by MEPHI
 * “Reshis!” tournament finalist in the Development track
 * Regional stage participant of the Russian Olympiad in Informatics
 * Hackathon participant: Ostrovok!, Nuclear Hack
