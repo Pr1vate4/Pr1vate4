@@ -47,70 +47,152 @@ I write backend services mostly in **Go** and **Python**, and I use my projects 
 
 ### SRE / DevOps
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge\&logo=gnu\&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge\&logo=nginx\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=Prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge\&logo=grafana\&logoColor=white)
 ![Grafana Loki](https://img.shields.io/badge/Grafana%20Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Grafana Alloy](https://img.shields.io/badge/Grafana%20Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Node Exporter](https://img.shields.io/badge/Node%20Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Minikube](https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=minikube&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Node Exporter](https://img.shields.io/badge/Node%20Exporter-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Minikube](https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge\&logo=minikube\&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge\&logo=ansible\&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge\&logo=terraform\&logoColor=white)
 
 ### Backend / Programming
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge\&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge\&logo=appwrite\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge\&logo=pytest\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ### Frontend / Web
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### Data Analysis
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 ### Databases / Tools
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge\&logo=yaml\&logoColor=151515)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)
 
 ### Other
 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Certbot](https://img.shields.io/badge/Certbot-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Certbot](https://img.shields.io/badge/Certbot-003A70?style=for-the-badge\&logo=letsencrypt\&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge\&logo=microsoft-access\&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ---
 
 ## Featured Projects
+
+### ЯВЬ (YAV) — digital content provenance & credibility analysis
+
+**Stack:** Python, React, TypeScript, Vite, Appwrite Cloud, Pydantic, Pytest, Gemini API
+
+Team project for primary verification of digital content: text, images, audio, and video are analyzed through format-specific pipelines and normalized into a unified report. Text analysis keeps AI-origin probability and credibility as separate signals.
+
+**My role:** Backend developer with a partial DevOps / infrastructure focus.
+
+What I worked on:
+
+* Migrated backend infrastructure to Appwrite Cloud with Auth, TablesDB, Storage, and Functions
+* Added mandatory email verification and backend authorization checks
+* Implemented strict request validation, sanitization, media signature checks, size limits, and safe error handling
+* Hardened Storage access around user JWTs and server-side permission checks
+* Built provider routing, normalized analysis results, history persistence, and fallback behavior
+* Migrated video verification to the Gemini Files API and added regression/unit coverage around provider and timeout behavior
+
+> Status: active team project with a public web demo.
+
+---
+
+### ERA5-Minimum — neural compression research for weather data
+
+**Stack:** Python, FastAPI, React, TypeScript, Vite, Three.js, Docker Compose, Makefile, Prometheus, Grafana, ERA5
+
+Research and hackathon project studying how small a training dataset can be while still allowing useful neural compression of global 28-channel ERA5 weather fields.
+
+What I worked on:
+
+* Worked on the real ERA5 data-loading path, data contract, validation, and reproducible download workflow
+* Worked on backend caching and repeated data-access behavior
+* Helped with project dependencies, CI-related workflow, and reproducible service startup
+* Worked with the containerized API/monitoring setup using Prometheus and Grafana
+* Contributed to the reproducible research pipeline around data preparation, model runs, and artifact handling
+
+The current pilot includes an independent `encode → bitstream → decode` path with exact roundtrip verification and measured compression/reconstruction metrics.
+
+> Status: public research repository and reproducible pilot.
+
+---
+
+### FlipSpace — interactive digital flipbook platform
+
+**Stack:** Go, Gin, pgx, PostgreSQL, React, TypeScript, Vite, Docker Compose, NGINX, Poppler
+
+Fullstack platform for converting documents into interactive digital flipbooks with public sharing, page delivery, hotspots, and analytics.
+
+Key implementation areas:
+
+* Go/Gin REST API with protected CRUD endpoints for books and hotspots
+* PostgreSQL/pgx persistence with JSONB-based metadata
+* JWT authentication with httpOnly cookies and bcrypt password hashing
+* PDF processing with Poppler and local asset storage
+* Public book, page image, download, and view endpoints
+* QR / iframe sharing and basic view analytics
+* React + TypeScript + Vite frontend with page-flip interaction
+
+> Status: fullstack team/project work.
+
+---
+
+### DANO — football national team success research
+
+**Stack:** Python, Pandas, Jupyter, Excel, data visualization, regression analysis
+
+Research project by team **T-teens** for the DANO Olympiad. The project analyzed social, economic, health, and football indicators for 169 countries over 2003–2021.
+
+**My role:** Team lead.
+
+Project highlights:
+
+* Performed exploratory analysis and built derived indicators for BMI deviation, HDI, and combined football ranking
+* Reduced the main analytical sample to 80 countries using explicit data-quality and development-level filters
+* Tested the hypothesis that population BMI deviation negatively affects national-team success
+* Found BMI deviation statistically insignificant in the tested regression
+* Continued with a multiple regression using factors such as HDI, gender inequality, and previous World Cup hosting
+* Checked model behavior on regional subsets including Europe and Asia
+
+> Status: DANO Olympiad finalist project.
+
+---
 
 ### PipeTodo — SRE / DevOps practice project
 
